@@ -14,13 +14,18 @@ http://localhost:8089/auto-insurance/runner.html?className=controllers.NameAndAd
 
 if you have newly installed database, you need to configure your database and change the connection configuration of the application:
 
-1. create a database named 'auto'
+create a database named 'auto'
 ```
 create database auto;
+```
+find the DDL (create table scripts) and run them: https://github.com/TheOpenCloudEngine/sw-modeling-tutorial/blob/master/autoinsurance.ddl
+
+and restart the server by
 
 ```
-1. find the DDL (create table scripts) and run them: 
+mvn tomcat7:run-war
+```
+again.
 
-1. configure the connection url
 
 Congratulations!
