@@ -30,6 +30,7 @@ again.
 
 Congratulations!
 
-## Recommended Readings
+## Recommended Readings and Resources
 
- (Object oriented concepts and UML)[https://www.slideshare.net/pongsor/ss-55719446]
+ 1. Object oriented concepts and UML - [https://www.slideshare.net/pongsor/ss-55719446]
+ 1. OOP concepted Car Simulation Example - https://github.com/jinyoung/education/tree/master/edu-carsim
