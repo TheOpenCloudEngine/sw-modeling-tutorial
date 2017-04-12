@@ -29,3 +29,7 @@ again.
 
 
 Congratulations!
+
+## Recommended Readings
+
+ (Object oriented concepts and UML)[https://www.slideshare.net/pongsor/ss-55719446]
