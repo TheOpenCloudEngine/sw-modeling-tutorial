@@ -1,5 +1,9 @@
 # Welcome to Model Driven Software Development using OCE and Visual-paradigm 
 
+## New Version Example
+This is old version example repo. Please relocate to new (mw4) repo here:
+https://github.com/jinyoung/sw-modeling-example
+
 ## Building and running the tutorial example
 
 ```
